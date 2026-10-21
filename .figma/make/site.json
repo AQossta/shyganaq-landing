@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a premium Kazakh millet snack brand while highlighting Aktobe Region's cultural heritage and tourism to inspire discovery and appreciation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
