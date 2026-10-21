@@ -31,3 +31,7 @@ Thumbs.db
 *.p12
 *.pfx
 !.env.example
+# Local Cloudflare authentication and development variables
+.wrangler/
+.dev.vars
+.dev.vars.*

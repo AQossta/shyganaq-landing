@@ -1,7 +1,9 @@
 {
-  "description": "Showcases a premium Kazakh millet snack brand while highlighting Aktobe Region's cultural heritage and tourism to inspire discovery and appreciation.",
+  "title": "SHYGANAQ — ұлттық мұра және табиғи дәм",
+  "description": "Қазақтың тары дәстүрінен шабыт алған SHYGANAQ жобасы. Бренд тарихы, өнім тұжырымдамасы және Ақтөбе өңірінің туристік бағыттары.",
+  "language": "kk",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
