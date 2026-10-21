@@ -1,0 +1,8 @@
+[build]
+  command = "pnpm run typecheck && pnpm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # The pnpm version is pinned by packageManager in package.json.
+  PNPM_FLAGS = "--frozen-lockfile"
